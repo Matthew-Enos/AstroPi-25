@@ -1,0 +1,9 @@
+import matplotlib.pyplot as plt
+import time
+import datetime
+plt.xlabel("Time")
+plt.ylabel("Linear Velocity")
+plt.title("Linear velocity of the ISS over time")
+for i in range (570):
+  date = date.datetime.now()
+  plt point(date, velocity)
